@@ -45,6 +45,8 @@ significant contributions to the success of the company.
 </div>
 </details>
 
+### the rest is INPROGRESS>>>
+<!--
 ### 💻Tech Stack
 _____________________________
 
@@ -72,7 +74,7 @@ _____________________________
 ![firebase](https://img.shields.io/badge/Firebase-ffaa00?style=for-the-badge&logo=Firebase&logoColor=white)
 ![netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-<!--
+
 **Davetech101/Davetech101** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
