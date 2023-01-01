@@ -45,7 +45,6 @@ significant contributions to the success of the company.
 </div>
 </details>
 
-### the rest is INPROGRESS>>>
 <!--
 ### 💻Tech Stack
 _____________________________
